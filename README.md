@@ -87,6 +87,14 @@ I'm a Computer Science graduate from India with experience in both Software Deve
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anadi-singh&theme=algolia&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
 ## 🌱 Currently Learning
 
 - Advanced SQL
