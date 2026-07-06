@@ -39,17 +39,28 @@ I'm a Computer Science graduate from India with experience in both Software Deve
 
 ---
 
-## 💻 Tech Stack
+## 💻 Languages & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,firebase,flutter,dart" />
+</p>
+
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy" />
+</p>
+
+<p align="center">
+
+| Data Analytics | Development |
+|---------------|-------------|
+| Python | Flutter |
+| SQL | Dart |
+| Power BI | Firebase |
+| Excel | REST APIs |
+| Pandas | Git |
+| NumPy | GitHub |
+
+</p>
 
 ---
 
