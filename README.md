@@ -76,11 +76,14 @@ I'm a Computer Science graduate from India with experience in both Software Deve
 
 ## 🚀 Featured Projects
 
-- 📊 Retail Customer Retention Analytics
-- 📈 Market Basket Analysis with Python
-- 💰 Financial Risk Analysis
-- 🤖 Predictive Modelling with Power BI
-- 🚚 Logistics Optimisation
+| Project | Description |
+|---------|-------------|
+| 📊 **[Retail Customer Retention Analytics](https://github.com/anadi-singh/Retail-Customer-Retention-Analytics)** | Power BI dashboard for customer retention and business insights. |
+| 📈 **[Market Basket Analysis](https://github.com/anadi-singh/Market-Basket-Analysis-with-Python)** | Association rule mining using Python and Apriori algorithm. |
+| 💰 **[Financial Risk Analysis](https://github.com/anadi-singh/Financial-Risk-Analysis-with-Python)** | Data analysis and risk prediction using Python. |
+| 🤖 **[Predictive Modelling Dashboard](https://github.com/anadi-singh/Predictive-Modelling-on-a-Web-Scraped-Data-with-a-Power-BI-Dashboard)** | Machine learning with an interactive Power BI dashboard. |
+| 🚚 **[Logistics Optimization](https://github.com/anadi-singh/Logistics-Optimization-for-Delivery-Routes)** | SQL-based logistics and delivery route optimization. |
+| 📱 **Flutter Projects** | Professional mobile applications built using Flutter & GetX. |
 
 ---
 
