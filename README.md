@@ -16,11 +16,11 @@ Previously worked as a **Junior Flutter Developer**, developing cross-platform a
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+<a href="https://www.linkedin.com/in/anadi-singhh/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="mailto:anadisingh.lev@gmail.com">
+<a href="mailto:anadisingh3217@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
 </a>
 </p>
