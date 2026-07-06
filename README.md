@@ -1,6 +1,14 @@
-# Hi 👋, I'm Anadi Singh
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Anadi+Singh;Data+Analytics+Intern;Python+%7C+SQL+%7C+Power+BI;Turning+Data+Into+Business+Insights" alt="Typing SVG" />
+</p>
 
-### Data Analytics Intern | Computer Science Graduate
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anadi-singh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Anadi Singh</h1>
+
+<h3 align="center">Data Analytics Intern | Computer Science Graduate</h3>
 
 I'm a Computer Science graduate from India with experience in both Software Development and Data Analytics.
 
@@ -45,12 +53,12 @@ I'm a Computer Science graduate from India with experience in both Software Deve
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anadi-singh&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anadi-singh&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anadi-singh&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anadi-singh&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 <p align="center">
