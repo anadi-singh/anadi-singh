@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./banner.png" alt="Anadi Singh Banner" width="100%">
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Anadi+Singh;Data+Analytics+Intern;Python+%7C+SQL+%7C+Power+BI;Turning+Data+Into+Business+Insights" alt="Typing SVG" />
+
 </p>
 
 <p align="center">
