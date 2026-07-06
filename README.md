@@ -68,6 +68,12 @@ I'm a Computer Science graduate from India with experience in both Software Deve
 
 ## 🚀 Featured Projects
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anadi-singh&theme=github-dark&hide_border=true"/>
+</p>
+
 - 📊 Retail Customer Retention Analytics
 - 📈 Market Basket Analysis with Python
 - 💰 Financial Risk Analysis
