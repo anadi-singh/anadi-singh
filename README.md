@@ -30,7 +30,7 @@ I'm a Computer Science graduate from India with experience in both Software Deve
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:anadisingh.lev@gmail.com">
+<a href="mailto:anadisingh3217@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
