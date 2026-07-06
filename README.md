@@ -2,21 +2,21 @@
 
 ### Data Analytics Intern | Computer Science Graduate
 
-I am a Computer Science graduate with professional experience in Software Development and Data Analytics.
+I'm a Computer Science graduate from India with experience in both Software Development and Data Analytics.
 
-Currently working as a **Data Analytics Intern at Labmentix**, where I analyse datasets using Python, SQL, Excel, and Power BI to build dashboards and generate business insights.
+💼 Currently working as a **Data Analytics Intern at Labmentix**
 
-Previously worked as a **Junior Flutter Developer**, developing cross-platform applications with Flutter and GetX.
+📊 Skilled in **Python, SQL, Power BI, Excel, Pandas, NumPy**
 
-📍 India
+📱 Former **Junior Flutter Developer** with experience building cross-platform mobile applications.
 
-📫 Email: anadisingh3217@gmail.com
 
+---
 
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/anadi-singhh/" target="_blank">
+<a href="https://www.linkedin.com/in/anadi-singhh/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
@@ -25,6 +25,12 @@ Previously worked as a **Junior Flutter Developer**, developing cross-platform a
 </a>
 </p>
 
+<a href="https://github.com/anadi-singh">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+
+---
 
 ## 💻 Tech Stack
 
@@ -38,30 +44,31 @@ Previously worked as a **Junior Flutter Developer**, developing cross-platform a
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
+---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=anadi-singh&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anadi-singh&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anadi-singh&layout=compact&theme=tokyonight)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anadi-singh&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=anadi-singh&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anadi-singh&theme=tokyonight&hide_border=true"/>
+</p>
 
-
-## 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=anadi-singh&theme=tokyo-night)
-
+---
 
 ## 🚀 Featured Projects
 
 - 📊 Retail Customer Retention Analytics
 - 📈 Market Basket Analysis with Python
-- 💰 Financial Risk Analysis with Python
+- 💰 Financial Risk Analysis
 - 🤖 Predictive Modelling with Power BI
 - 🚚 Logistics Optimisation
-- 📱 Flutter Applications
 
+---
 
 ## 🌱 Currently Learning
 
@@ -69,5 +76,3 @@ Previously worked as a **Junior Flutter Developer**, developing cross-platform a
 - Power BI
 - Machine Learning
 - Business Intelligence
-
-
