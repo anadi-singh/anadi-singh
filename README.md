@@ -56,8 +56,8 @@ I'm a Computer Science graduate from India with experience in both Software Deve
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anadi-singh&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anadi-singh&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anadi-singh&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anadi-singh&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
