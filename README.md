@@ -87,10 +87,10 @@ I'm a Computer Science graduate from India with experience in both Software Deve
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Profile Summary
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anadi-singh&theme=algolia&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anadi-singh&theme=github_dark"/>
 </p>
 
 ---
