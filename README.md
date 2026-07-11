@@ -5,6 +5,12 @@
 </p>
 
 <p align="center">
+  <a href="https://anadiverse.vercel.app">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Live-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=anadi-singh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
@@ -24,7 +30,7 @@ I'm a Computer Science graduate from India with experience in both Software Deve
 
 ## 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/anadi-singhh/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
